@@ -75,7 +75,7 @@ task-manager-backend/
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/your-username/taskmaster.git
+git clone https://github.com/codingraft/taskmaster.git
 cd taskmaster
 ```
 
