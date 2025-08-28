@@ -15,7 +15,7 @@ app.use(express.json());
 app.use(morgan('dev'));
 app.use(cookieParser());
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5000; // port
 
 app.get('/', (_, res) => {
     res.send('Hello World!');
